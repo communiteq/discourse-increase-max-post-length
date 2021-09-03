@@ -1,5 +1,5 @@
-# name: discourse-plugin-site-setting-override
-# about: Example plugin to override a site setting
+# name: discourse-increase-max-post-length
+# about: Increases max post length to 300000
 # version: 1.0.0
 # authors: Joshua Rosenfeld
-# url: https://github.com/jomaxro/discourse-plugin-site-setting-override
+# url: https://github.com/communiteq/discourse-increase-max-post-length
